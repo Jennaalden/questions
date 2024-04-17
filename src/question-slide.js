@@ -48,7 +48,7 @@ static get styles() {
     
     
     
-    `}
+`}
 }
 
 globalThis.customElements.define(questionSlide.tag, questionSlide);
