@@ -39,42 +39,35 @@
         "feedback": "Incorrect - Accessible: The color scheme while high contrast in some areas, loses form in others and has written text unrelated to the character."
       }
     },
-    "pig": {
-      "Has a Hat": {
+    "axolotl": {
+      "Is pink": {
         "correct": true,
-        "feedback": "Correct - Has a Hat: Has a mix of brown, red and blue"
+        "feedback": "Correct - Is pink: Who wouldnt want a pink axolotl"
       },
-      "Is a pig": {
+      "Is an axolotl": {
         "correct": true,
-        "feedback": "Correct - Is a pig: Its someones pet pig."
+        "feedback": "Correct - Is an axolotl: Axolotls make great pets!"
       },
-      "There are flowers": {
+      "There is a GameBoy": {
         "correct": true,
-        "feedback": "Correct - There are flowers: There are some pink flowers"
+        "feedback": "Correct - There is a GameBoy: Hot take- Old games are better than new ones."
       },
-      "Is wearing a jacket": {
+      "Is a dog": {
         "correct": false,
-        "feedback": "Incorrect - Is wearing a jacket: Is not wearing a jacket, its more of a sweater."
+        "feedback": "Incorrect - Is a dog: This is in fact not a dog!"
       },
-      "Wearing a hoodie": {
+      "Has a bag of chips": {
         "correct": true,
-        "feedback": "Correct - Wearing a Hoodie: The pig is wearing a pink hoodie."
+        "feedback": "Correct - Has a bag of chips: The axolotl is enjoying her snack:)"
       },
-      "Standing": {
+      "Is laying down": {
         "correct": true,
-        "feedback": "Correct - Standing: The pig is standing, even though it may look like its not"
+        "feedback": "Correct - Is laying down: The axolotl is laying down playing the game."
       },
-      "Contrasting themes": {
+      "The axolotl is having a bad time": {
         "correct": false,
-        "feedback": "Incorrect - Contrasting themes: There is uniformity in the shape, but there is no depth to imply that it is contrasting."
-      },
-      "AI": {
-        "correct": false,
-        "feedback": "Incorrect - AI: This picture was taken with an iphone camera, so this is not AI generative work."
-      },
-      "Accessible": {
-        "correct": false,
-        "feedback": "Incorrect - Accessible: The color scheme while high contrast in some areas, loses form in others and has written text unrelated to the character."
+        "feedback": "Incorrect - The axolotl is having a bad time: The axolotl is having a great time actually!!"
+      }
       }
     }
-  }
+  

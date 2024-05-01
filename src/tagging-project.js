@@ -150,7 +150,7 @@ export class TaggingProject extends DDD {
     
             font-size: var(--ddd-font-size-s);
             font-weight: normal;
-            cursor: pointer;
+            cursor: grab;
     
             outline: none;
             border: solid 2px var(--tag-color);
